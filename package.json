@@ -1,0 +1,17 @@
+{
+  "name": "react_parcel_boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html"
+  },
+  "author": "Azez Nassar",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.9.7",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
