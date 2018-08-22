@@ -22,7 +22,7 @@ $ npm install
 
 ### Run
 
-This will watch your files, compile them and run your local dev server at http://localhost:1234/
+This will watch your files, buddle them and run your local dev server at http://localhost:1234/
 
 ```sh
 $ npm start
